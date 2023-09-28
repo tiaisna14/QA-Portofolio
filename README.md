@@ -12,5 +12,9 @@
    - Selenium Java
    - Cucumber Java (BDD)
 
-5. Mobile Automation
+4. Mobile Automation
    - Robot Framework
+
+5. Performance Testing
+   - Non Functional Testing
+
